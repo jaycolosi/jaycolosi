@@ -1,7 +1,7 @@
 # Oh Hey! It's Jay!🦆 
 ## That's me! Jay Colosi (they/him), a Data Analyst and RuPaul's Drag Race Enthusiast.👑
 
-Welcome to my Github! Here you can find repositories containing various projects with new ones being added in the future. I love working collboratively and learn best by getting my hands dirty! I'm infinitely curious and caffinated. 
+Welcome to my Github! Here you can find repositories containing various projects with new ones being added in the future. I love working collboratively and learn best by getting my hands dirty! I'm infinitely curious and caffinated.☕️ 
 
 Let's chat! <a href="mailto:jaycolosi@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 

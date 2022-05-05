@@ -5,8 +5,9 @@ Welcome to my Github! Here you can find repositories containing various projects
 
 Let's chat! <a href="mailto:jaycolosi@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-
-Tech Stack:<br>
+🪴 What's new!?: Graduated Juno Data Analytics Bootcamp! 
+⚡️ Fun Fact: I'm currently teaching myself to solve a Rubik's cube.
+💾 Tech Stack:<br>
 ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 

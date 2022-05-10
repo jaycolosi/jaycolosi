@@ -5,12 +5,12 @@ Welcome to my Github! Here you can find repositories containing various projects
 
 ## A little about me...
 
-● 📚 Data Analytics bootcamp graduate (April 2022, Juno College)
-● 👑 Drag Race enthuiast and creator of the [Drag Fantasy League](https://www.dragfantasyleague.com/) 
-● 👍 I love working collboratively and learn best by getting my hands dirty! 
-● 💡 I'm infinitely curious and caffinated
-● 🍿 Self-proclaimed movie nerd.
-● 📄 Check out my resume [here!]
+● 📚 Data Analytics bootcamp graduate (April 2022, Juno College)<br>
+● 👑 Drag Race enthuiast and creator of the [Drag Fantasy League](https://www.dragfantasyleague.com/) <br>
+● 👍 I love working collboratively and learn best by getting my hands dirty!<br>
+● 💡 I'm infinitely curious and caffinated.<br>
+● 🍿 Self-proclaimed movie nerd.<br>
+● 📄 Check out my resume [here!]<br>
 ● 💾 Tech Stack:<br>
 ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 

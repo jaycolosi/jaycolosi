@@ -1,13 +1,17 @@
 # Oh Hey! It's Jay!🦆 
-## That's me! Jay Colosi (they/him), a Data Analyst and RuPaul's Drag Race Enthusiast.👑
+## That's me! Jay Colosi (they/him)
 
-Welcome to my Github! Here you can find repositories containing various projects with new ones being added in the future. I love working collboratively and learn best by getting my hands dirty! I'm infinitely curious and caffinated.☕️ 
+Welcome to my Github! Here you can find repositories containing various projects with new ones being added in the future. 
 
-Let's chat! <a href="mailto:jaycolosi@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+## A little about me...
 
-🪴 What's new!?: Graduated Juno Data Analytics Bootcamp!<br>
-⚡️ Fun Fact: I'm currently teaching myself to solve a Rubik's cube.<br>
-💾 Tech Stack:<br>
+● 📚 Data Analytics bootcamp graduate (April 2022, Juno College)
+● 👑 Drag Race enthuiast and creator of the [Drag Fantasy League](https://www.dragfantasyleague.com/) 
+● 👍 I love working collboratively and learn best by getting my hands dirty! 
+● 💡 I'm infinitely curious and caffinated
+● 🍿 Self-proclaimed movie nerd.
+● 📄 Check out my resume [here!]
+● 💾 Tech Stack:<br>
 ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -20,4 +24,8 @@ Let's chat! <a href="mailto:jaycolosi@gmail.com?"><img src="https://img.shields.
 ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)<br>
+
+
+## Let's Connect!
+Let's chat! <a href="mailto:jaycolosi@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 

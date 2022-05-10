@@ -1,5 +1,5 @@
 # Oh Hey! It's Jay!🦆 
-## That's me! Jay Colosi (they/him)
+## That's me! Jay Colosi (they/him), Data Analyst
 
 Welcome to my Github! Here you can find repositories containing various projects with new ones being added in the future. 
 
@@ -27,5 +27,6 @@ Welcome to my Github! Here you can find repositories containing various projects
 
 
 ## Let's Connect!
-Let's chat! <a href="mailto:jaycolosi@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+📧 Send me an Email: jaycolosi@gmail.com
+👔 Reach out on [LinkedIn](https://www.linkedin.com/in/jay-colosi/)
 

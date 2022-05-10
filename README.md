@@ -27,6 +27,6 @@ Welcome to my Github! Here you can find repositories containing various projects
 
 
 ## Let's Connect!
-📧 Send me an Email: jaycolosi@gmail.com
-👔 Reach out on [LinkedIn](https://www.linkedin.com/in/jay-colosi/)
+📧 Send me an Email: jaycolosi@gmail.com <br>
+👔 Reach out on [LinkedIn](https://www.linkedin.com/in/jay-colosi/)<br>
 

@@ -6,7 +6,7 @@ Welcome to my Github! Here you can find repositories containing various projects
 ## A little about me...
 
 ● 📚 Data Analytics bootcamp graduate (April 2022, Juno College)<br>
-● 👑 Drag Race enthuiast and creator of the [Drag Fantasy League](https://www.dragfantasyleague.com/) <br>
+● 👑 RuPaul's Drag Race enthuiast and creator of the [Drag Fantasy League](https://www.dragfantasyleague.com/) <br>
 ● 👍 I love working collboratively and learn best by getting my hands dirty!<br>
 ● 💡 I'm infinitely curious and caffinated.<br>
 ● 🍿 Self-proclaimed movie nerd.<br>

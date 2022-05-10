@@ -10,7 +10,7 @@ Welcome to my Github! Here you can find repositories containing various projects
 ● 👍 I love working collboratively and learn best by getting my hands dirty!<br>
 ● 💡 I'm infinitely curious and caffinated.<br>
 ● 🍿 Self-proclaimed movie nerd.<br>
-● 📄 Check out my resume [here!]<br>
+● 📄 Check out my resume [here!](https://drive.google.com/file/d/12C5aMwVQnNDSqCXx2Y724x_ytqQ1fROc/view?usp=sharing)<br>
 ● 💾 Tech Stack:<br>
 ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
